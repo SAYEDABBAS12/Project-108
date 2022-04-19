@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Dosis:wght@200&family=Fredoka+One&family=PT+Mono&family=Yanone+Kaffeesatz:wght@200;500&display=swap');
+
+
+
+body{
+    font-family: 'Special Elite' , 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: black;
+}
+
+.header_div {
+    background: yellow;
+    color: rebeccapurple;
+}
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blanchedalmond;
+    letter-spacing: normal;
+    font-size: 18;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: chocolate;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px 5px rgb(#ff1226);
+}
+#result_label{
+    color: aqua;
+}
+
+#result_confidence{
+    color: aqua;
+}
